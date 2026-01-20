@@ -1,4 +1,4 @@
-# Creative Commons Images Dataset Sample
+# Creative Commons Images 데이터셋 샘플
 
 <h2>2,346개 레코드로 구성된 샘플 데이터셋</h2>
 
