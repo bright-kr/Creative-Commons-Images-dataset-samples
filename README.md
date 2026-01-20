@@ -1,47 +1,47 @@
 # Creative Commons Images Dataset Sample
 
-<h2>A sample dataset of 2,346 records</h2>
+<h2>2,346개 레코드로 구성된 샘플 데이터셋</h2>
 
-<a href="https://brightdata.com">
+<a href="https://brightdata.co.kr">
     <img src="https://github.com/luminati-io/Creative-Commons-Images-dataset-samples/blob/main/datasets-image.png" alt="Bright Data datasets" />
 </a>
 
-This **Creative Commons Images Dataset Sample** includes **2,346 records** and was extracted using the **Bright Data API**.
+이 **Creative Commons Images Dataset Sample**에는 **2,346개 레코드**가 포함되어 있으며, **Bright Data API**를 사용하여 추출되었습니다.
 
 ## Data Points
 
 | Field Name | Description |
 |------------|-------------|
-| `url` | The URL of the image's page on the source platform. |
-| `title` | The title or name of the image as provided on the source platform. |
-| `description` | A brief description of the image content, if available. |
-| `image_url` | The direct URL link to the image file. |
-| `creators` | Information about the creator(s) of the image, including names and optional URLs. |
-| `license` | The type of Creative Commons license under which the image is shared. |
-| `keyword` | Keywords associated with the image to aid in search and categorization. |
-| `type` | The file type of the image, such as JPEG. |
-| `domain` | The domain or platform where the image is hosted or originally published. |
-| `date_taken` | The date when the image was captured, if available. |
-| `dimensions` | The dimensions of the image, usually in pixels. |
+| `url` | 소스 플랫폼에서 이미지 페이지의 URL입니다. |
+| `title` | 소스 플랫폼에 제공된 이미지의 제목 또는 이름입니다. |
+| `description` | 제공되는 경우, 이미지 콘텐츠에 대한 간단한 설명입니다. |
+| `image_url` | 이미지 파일로의 직접 URL 링크입니다. |
+| `creators` | 이름 및 선택적 URL을 포함한 이미지 제작자(들)에 대한 정보입니다. |
+| `license` | 이미지가 공유되는 Creative Commons 라이선스 유형입니다. |
+| `keyword` | 검색 및 분류를 돕기 위해 이미지와 연관된 키워드입니다. |
+| `type` | JPEG와 같은 이미지 파일 유형입니다. |
+| `domain` | 이미지가 호스팅되거나 최초 게시된 도메인 또는 플랫폼입니다. |
+| `date_taken` | 제공되는 경우, 이미지가 촬영된 날짜입니다. |
+| `dimensions` | 일반적으로 픽셀 단위의 이미지 크기(가로x세로)입니다. |
 
 
 ## Use Cases
 
 ### 1. Content Creation
-Utilize Creative Commons images for enriching blog posts, articles, and social media content with visually appealing media.
+시각적으로 매력적인 미디어로 블로그 게시물, 기사 및 소셜 미디어 콘텐츠를 풍부하게 만들기 위해 Creative Commons 이미지를 활용합니다.
 
 ### 2. Licensing Research
-Analyze the types of licenses under which images are shared to understand trends in Creative Commons usage.
+이미지가 공유되는 라이선스 유형을 분석하여 Creative Commons 사용 추세를 파악합니다.
 
 ### 3. Image Metadata Analysis
-Conduct research on image metadata to enhance image recognition algorithms and improve search engine optimization strategies.
+이미지 메타데이터에 대한 연구를 수행하여 이미지 인식 알고리즘을 강화하고 검색 엔진 최적화 전략을 개선합니다.
 
 
 
 ## File Formats
 
-The dataset is available in multiple formats:
-- **CSV** (included in this sample)
+데이터셋은 여러 형식으로 제공됩니다:
+- **CSV**(이 샘플에 포함)
 - **JSON**
 - **NDJSON**
 - **JSON Lines**
@@ -61,8 +61,8 @@ The dataset is available in multiple formats:
 
 ## Update Frequency
 
-Datasets can be updated on various schedules:
-- **Once** (one-time delivery)
+데이터셋은 다양한 일정으로 업데이트할 수 있습니다:
+- **Once**(1회성 제공)
 - **Daily**
 - **Weekly**
 - **Monthly**
@@ -71,14 +71,14 @@ Datasets can be updated on various schedules:
 
 ## Data Enrichment
 
-Enhance your dataset with additional data points based on your specific requirements. Contact us for custom enrichment options.
+특정 요구사항에 따라 추가 데이터 포인트로 데이터셋을 강화할 수 있습니다. 맞춤형 enrichment 옵션은 문의해 주시기 바랍니다.
 
-**[Get the full Creative Commons Images dataset](https://brightdata.com/products/datasets/image)**
+**[전체 Creative Commons Images dataset 받기](https://brightdata.co.kr/products/datasets/image)**
 
 ---
 
 ## Free Access for Researchers and NGOs
 
-The Bright Initiative offers free access to **[Web Scraper APIs](https://brightdata.com/products/web-scraper)** and **[ready-to-use datasets](https://brightdata.com/products/datasets)** for academic researchers, NGOs, and NPOs working on environmental and social causes. 
+Bright Initiative는 환경 및 사회적 목적을 위해 활동하는 학술 연구자, NGO 및 NPO에 **[Web Scraper APIs](https://brightdata.co.kr/products/web-scraper)** 및 **[즉시 사용 가능한 데이터셋](https://brightdata.co.kr/products/datasets)**에 대한 무료 접근을 제공합니다. 
 
-Apply for free access at [brightinitiative.com](https://brightinitiative.com).
+[brightinitiative.com](https://brightinitiative.com)에서 무료 접근을 신청하시기 바랍니다.
